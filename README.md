@@ -1,1 +1,1 @@
-# Timeseries Analsis
+# Timeseries Analysis
